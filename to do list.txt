@@ -1,9 +1,16 @@
 eat
+
+sleep
+
 sleep
 bath
 
 manasi Chaudhati
-prohramming
+programming
 python
 
+
 scrum
+meetup
+call
+
