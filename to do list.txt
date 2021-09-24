@@ -1,2 +1,13 @@
 eat
+<<<<<<< HEAD
 sleep
+=======
+sleep
+bath
+
+manasi Chaudhati
+prohramming
+python
+
+meetup
+call
